@@ -1,0 +1,73 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+
+header {
+    background-color: #ff8c42;
+    padding: 20px;
+  text-align: center;
+   
+}
+
+nav ul li {
+    padding-left: 250px;
+}
+
+nav ul li a:hover {
+    background-color: #ff8c42;
+    color: #333;
+}
+
+
+h1 {
+    font-size: 2.5em;
+    color: black;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.hobby h1 {
+    font-size: 2.5em;
+    color: #ff8c42;
+    margin-bottom: 30px;
+}
+.teksten {
+    display: flex;
+    justify-content: space-between; 
+  }
+  
+  .text-box {
+    flex: 1; 
+    margin: 0 10px; 
+  }
+
+  .foto-woonzorgcentrum {
+    width: 700px;
+  }
+ 
+.container{
+    padding-bottom: 10px;
+}
+
+footer h1{
+    font-size: 2.5em;
+    color: white;
+    margin-bottom: 30px;
+    text-align: center;
+}
+h5,p {
+    color: black;
+}
+.valorant {
+    color: white;
+}
+
+.fifa1 {
+    color: white;
+}
+.fifa2 {
+    color: white;
+}
